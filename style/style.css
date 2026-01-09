@@ -90,6 +90,10 @@ nav .menu a{
     margin: 0 auto;
     margin-top: 70px;
     padding: 10px 12px;
+    display: flex;
+    justify-content:center;
+    gap: 6px;
+
 }
 
 .hero-content h1{
