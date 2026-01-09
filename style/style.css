@@ -188,6 +188,7 @@ nav .menu a{
     padding: 16px;
     display: inline-block;
     justify-content: center;
+    align-items: center;
 }
 
 /* knowledge style */
